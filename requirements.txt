@@ -1,0 +1,12 @@
+streamlit
+langchain
+python-dotenv
+langchain-pinecone
+langchain-openai
+
+
+langsmith
+langchain-community
+tiktoken
+langchainhub
+langgraph
